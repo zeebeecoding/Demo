@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/joy": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.14.3/docs/data/joy/components/select/SelectBasic.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
